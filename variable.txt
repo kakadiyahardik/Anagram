@@ -1,0 +1,16 @@
+Ghost starter
+......................
+variable  
+
+button
+---------------
+ok		->	by pressing updatae character
+challange ->for challanger
+reset	-> for reset
+
+
+
+
+ghostText (lable)   ->    spelling increase character by enter user and computer
+text(textbox)		->	textbox for enter single character by user then press ok
+status(lable)		->	display status whose turn right now
